@@ -7,7 +7,7 @@ const currTime = new Date().toLocaleTimeString();
 
 ReactDOM.render(
   <>
-  <h1>Challenge#1</h1>
+  <h1>Challenge#01</h1>
     <h2>Umang's Netflix pick</h2>
     <p>Here's the list of my fav 6 netflix series</p>
     <ol>
@@ -18,7 +18,7 @@ ReactDOM.render(
       <li>Money Heist</li>
     </ol>
  
-  <h1>Challenge#2</h1>
+  <h1>Challenge#02</h1>
     <h2>My name is {name}</h2>
     <p>Current Date is = {currDate}</p>
     <p>Current Time is = {currTime} </p>
